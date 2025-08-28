@@ -1,0 +1,111 @@
+@prefix : <http://data.eksempel.no/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://data.eksempel.no/> .
+
+<http://data.eksempel.no/> rdf:type owl:Ontology .
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://data.eksempel.no/maksYtelse
+:maksYtelse rdf:type owl:DatatypeProperty ;
+            rdfs:domain :Kraftverk ;
+            rdfs:range xsd:double ;
+            rdfs:label "maks ytelse"@nb ,
+                       "max capacity"@en .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://data.eksempel.no/Kraftverk
+:Kraftverk rdf:type owl:Class ;
+           rdfs:label "Kraftverk"@nb ,
+                      "Power plant"@en .
+
+
+###  http://data.eksempel.no/Mikrokraftverk
+:Mikrokraftverk rdf:type owl:Class ;
+                owl:equivalentClass [ owl:intersectionOf ( :Kraftverk
+                                                           [ rdf:type owl:Restriction ;
+                                                             owl:onProperty :maksYtelse ;
+                                                             owl:someValuesFrom [ rdf:type rdfs:Datatype ;
+                                                                                  owl:onDatatype xsd:double ;
+                                                                                  owl:withRestrictions ( [ xsd:maxExclusive "0.1"^^xsd:double
+                                                                                                         ]
+                                                                                                       )
+                                                                                ]
+                                                           ]
+                                                         ) ;
+                                      rdf:type owl:Class
+                                    ] ;
+                rdfs:subClassOf :Kraftverk .
+
+
+###  http://data.eksempel.no/Minikraftverk
+:Minikraftverk rdf:type owl:Class ;
+               owl:equivalentClass [ owl:intersectionOf ( :Kraftverk
+                                                          [ rdf:type owl:Restriction ;
+                                                            owl:onProperty :maksYtelse ;
+                                                            owl:someValuesFrom [ rdf:type rdfs:Datatype ;
+                                                                                 owl:onDatatype xsd:double ;
+                                                                                 owl:withRestrictions ( [ xsd:minExclusive "0.1"^^xsd:double
+                                                                                                        ]
+                                                                                                      )
+                                                                               ]
+                                                          ]
+                                                          [ rdf:type owl:Restriction ;
+                                                            owl:onProperty :maksYtelse ;
+                                                            owl:someValuesFrom [ rdf:type rdfs:Datatype ;
+                                                                                 owl:onDatatype xsd:double ;
+                                                                                 owl:withRestrictions ( [ xsd:maxExclusive "1.0"^^xsd:double
+                                                                                                        ]
+                                                                                                      )
+                                                                               ]
+                                                          ]
+                                                        ) ;
+                                     rdf:type owl:Class
+                                   ] ;
+               rdfs:subClassOf :Kraftverk .
+
+
+###  http://data.eksempel.no/Småkraftverk
+:Småkraftverk rdf:type owl:Class ;
+              owl:equivalentClass [ owl:intersectionOf ( :Kraftverk
+                                                         [ rdf:type owl:Restriction ;
+                                                           owl:onProperty :maksYtelse ;
+                                                           owl:someValuesFrom [ rdf:type rdfs:Datatype ;
+                                                                                owl:onDatatype xsd:double ;
+                                                                                owl:withRestrictions ( [ xsd:minExclusive "1.0"^^xsd:double
+                                                                                                       ]
+                                                                                                     )
+                                                                              ]
+                                                         ]
+                                                         [ rdf:type owl:Restriction ;
+                                                           owl:onProperty :maksYtelse ;
+                                                           owl:someValuesFrom [ rdf:type rdfs:Datatype ;
+                                                                                owl:onDatatype xsd:double ;
+                                                                                owl:withRestrictions ( [ xsd:maxExclusive "10.0"^^xsd:double
+                                                                                                       ]
+                                                                                                     )
+                                                                              ]
+                                                         ]
+                                                       ) ;
+                                    rdf:type owl:Class
+                                  ] ;
+              rdfs:subClassOf :Kraftverk .
+
+
+###  http://data.eksempel.no/Vassdrag
+:Vassdrag rdf:type owl:Class ;
+          rdfs:label "Drainage system"@en ,
+                     "Vassdrag"@nb .
+
+
+###  Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi

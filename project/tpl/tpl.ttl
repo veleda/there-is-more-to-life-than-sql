@@ -1,0 +1,46 @@
+@prefix : <http://data.eksempel.no/> .
+@prefix tpl: <http://data.eksempel.no/tpl/> .
+@prefix ottr: <http://ns.ottr.xyz/0.4/> .
+@prefix o-rdf: <https://tpl.ottr.xyz/rdf/0.1/> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+tpl:Vannkraftverk[ 
+    ?id,
+    ?navn, 
+    ?maksYtelse, 
+    ?ErIDrift,
+    ?IDriftDato,
+    ? ?Nedborsfeltnavn,
+    ? ?feltnavn,
+    ?Kommune
+ ] :: {
+    ottr:Triple(?id, rdf:type, :Kraftverk), 
+    ottr:Triple(?id, rdf:type, owl:NamedIndividual), 
+    ottr:Triple(?id, rdfs:label, ?navn),
+    ottr:Triple(?id, :maksYtelse, ?maksYtelse), 
+    ottr:Triple(?id, :erIDrift, ?ErIDrift),
+    ottr:Triple(?id, :iDriftDato, ?IDriftDato), 
+    ottr:Triple(?id, :vassdrag, ?Nedborsfeltnavn),
+    ottr:Triple(?id, :kommune, ?Kommune),
+    ottr:Triple(?Nedborsfeltnavn, rdf:type, owl:NamedIndividual),
+    ottr:Triple(?Nedborsfeltnavn, rdf:type, :Vassdrag),
+    ottr:Triple(?Nedborsfeltnavn, rdfs:label, ?feltnavn),
+    ottr:Triple(?Nedborsfeltnavn, :lokasjon, ?Kommune)
+
+} .
+
+tpl:Inntekt[
+    ? ?kommune, 
+    ? ?a,
+    ? ?b,
+    ? ?c,
+    ? ?kommunenavn
+] :: {
+    ottr:Triple(?kommune, rdf:type, owl:NamedIndividual),
+    ottr:Triple(?kommune, rdf:type, :Kommune),
+    ottr:Triple(?kommune, rdfs:label, ?kommunenavn),
+    ottr:Triple(?kommune, :snitt22, ?a),
+    ottr:Triple(?kommune, :snitt23, ?b),
+    ottr:Triple(?kommune, :snitt24, ?c)
+} .

@@ -1,0 +1,66 @@
+## KOMMUNER MED FLEST KRAFTVERK OG SUMMERT YTELSE
+
+SELECT ?kommune (COUNT(*) AS ?count) (SUM(?ytelse) AS ?samletYtelse) WHERE {
+  
+  ?s :kommune ?kommune ; 
+    :maksYtelse ?ytelse .
+} 
+GROUP BY ?kommune
+ORDER BY DESC(?count)
+
+## FEDERATED TO DBPEDIA
+
+SELECT * WHERE {
+  
+  ?s :kommune ?kommune .
+  BIND(STRLANG(STR(?kommune), "en") AS ?kommune_en)
+  
+  SERVICE <https://dbpedia.org/sparql> { ?a rdfs:label ?kommune_en .}
+} 
+
+##### FEDERATED TO WIKIDATA
+SELECT DISTINCT ?kommune ?population  WHERE {
+  
+  ?s :kommune ?kommune .
+  
+  SERVICE <https://query.wikidata.org/sparql> { 
+    ?a ?p ?kommune ;
+       wdt:P1082 ?population .
+  }
+} LIMIT 10
+
+##### HØYST INNTEKT I KRAFTKOMMUNE
+
+SELECT DISTINCT ?k ?kr WHERE {
+  
+  ?v a :Vannkraftverk ;
+    :kommune ?k .
+  
+  ?s a :Kommune ;
+    rdfs:label ?k2 .
+  
+  OPTIONAL {?s :snitt24 ?kr . }
+  
+  FILTER(?k = ?k2)
+}
+ORDER BY DESC(?kr)
+
+
+#### KORRELASJONER
+
+SELECT 
+	?kommune 
+	(COUNT(*) AS ?count) 
+	(SUM(?ytelse) AS ?samletYtelse) 
+	((AVG(?a) + AVG(?b) + AVG(?c))/3 as ?lonn)
+WHERE {
+  
+  ?s :kommune ?kommune ; 
+    :maksYtelse ?ytelse .
+  
+  ?k a :Kommune ;
+    rdfs:label ?kommune ;
+    :snitt24 ?a ; :snitt23 ?b ; :snitt22 ?c .
+} 
+GROUP BY ?kommune
+ORDER BY ASC(?samletYtelse)

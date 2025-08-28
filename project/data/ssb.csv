@@ -1,0 +1,1811 @@
+12852: Kommunefordelt månedslønn, etter region, statistikkmål, arbeidssted/bosted, kjønn, alder, avtalt/vanlig arbeidstid per uke, statistikkvariabel og år;;;;;;;;
+;;;;;;;;
+;;;;;;Månedslønn (kr);;
+;;;;;;2022;2023;2024
+3101 Halden;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;55120
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;55470
+3103 Moss;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;54960
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;58280
+3105 Sarpsborg;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;55990
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;54260
+3107 Fredrikstad;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;53570
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;56710
+3110 Hvaler;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;51250
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;59290
+3112 Råde;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;51800
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;55790
+3114 Våler (Østfold);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;50630
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;55650
+3116 Skiptvet;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;49420
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;53250
+3118 Indre Østfold;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;51310
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;53520
+3120 Rakkestad;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;51250
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;52480
+3122 Marker;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;51710
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;53220
+3124 Aremark;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;50610
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;52180
+3201 Bærum;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;71560
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;76170
+3203 Asker;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;59990
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;69150
+3205 Lillestrøm;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;56550
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;59910
+3207 Nordre Follo;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;56660
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;65160
+3209 Ullensaker;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;55430
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;56350
+3212 Nesodden;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;53080
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;65170
+3214 Frogn;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;53820
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;65260
+3216 Vestby;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;55120
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;60460
+3218 Ås;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;56700
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;60530
+3220 Enebakk;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;52340
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;55610
+3222 Lørenskog;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;58980
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;60400
+3224 Rælingen;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;53550
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;60090
+3226 Aurskog-Høland;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;51700
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;53650
+3228 Nes;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;50560
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;54820
+3230 Gjerdrum;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;51950
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;61000
+3232 Nittedal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;55920
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;62260
+3234 Lunner;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;50840
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;56180
+3236 Jevnaker;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;52860
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;53850
+3238 Nannestad;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;52580
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;54330
+3240 Eidsvoll;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;51340
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;55310
+3242 Hurdal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;50430
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;54120
+3001 Halden (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;49510;52410;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;49330;52730;.
+3002 Moss (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;49190;51910;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;52530;55390;.
+3003 Sarpsborg (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;49850;52910;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;48700;51580;.
+3004 Fredrikstad (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48170;51070;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;50830;53920;.
+3005 Drammen (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;51010;53880;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;52090;54940;.
+3006 Kongsberg (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;57240;59850;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;56000;58780;.
+3007 Ringerike (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48030;51090;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;48750;51720;.
+3011 Hvaler (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45470;48380;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;52890;56450;.
+3012 Aremark (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44840;48740;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;47570;50020;.
+3013 Marker (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46620;49330;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;47300;49890;.
+3014 Indre Østfold (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45870;48770;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;48190;50970;.
+3015 Skiptvet (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44130;47240;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;47830;50730;.
+3016 Rakkestad (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45290;48180;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;46630;49450;.
+3017 Råde (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45820;49250;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;50060;52850;.
+3018 Våler (Viken) (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45880;48440;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;50150;52920;.
+3019 Vestby (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;49140;52440;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;54360;57340;.
+3020 Nordre Follo (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;51450;54060;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;59160;62270;.
+3021 Ås (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;51260;54240;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;54310;57270;.
+3022 Frogn (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47710;50620;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;59270;62130;.
+3023 Nesodden (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47600;50620;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;58720;62060;.
+3024 Bærum (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;64810;68270;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;68690;72340;.
+3025 Asker (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;53740;56790;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;62070;65650;.
+3026 Aurskog-Høland (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46230;48830;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;48070;50790;.
+3027 Rælingen (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48600;50870;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;54430;57310;.
+3028 Enebakk (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45650;49020;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;50440;53140;.
+3029 Lørenskog (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;53420;56060;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;54750;57650;.
+3030 Lillestrøm (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;50850;54000;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;53990;56950;.
+3031 Nittedal (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;50160;53190;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;56310;59330;.
+3032 Gjerdrum (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46460;48950;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;55210;58190;.
+3033 Ullensaker (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;50240;52830;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;50970;53730;.
+3034 Nes (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44900;47880;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;49090;52120;.
+3035 Eidsvoll (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46000;49060;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;49480;52480;.
+3036 Nannestad (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46330;49320;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;48850;51520;.
+3037 Hurdal (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46400;48500;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;48550;50940;.
+3038 Hole (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45110;47170;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;55730;59500;.
+3039 Flå (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45920;49900;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;46560;50010;.
+3040 Nesbyen (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45800;48820;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;47390;49650;.
+3041 Gol (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45640;48170;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;46310;49220;.
+3042 Hemsedal (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;43910;46410;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;49050;51410;.
+3043 Ål (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48320;51200;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;47630;50610;.
+3044 Hol (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45340;48720;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;46970;49570;.
+3045 Sigdal (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;43900;47010;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;46050;49250;.
+3046 Krødsherad (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46310;47480;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;47420;49820;.
+3047 Modum (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48500;52600;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;48040;50750;.
+3048 Øvre Eiker (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46790;49170;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;49930;52840;.
+3049 Lier (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;50340;52790;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;55890;58890;.
+3050 Flesberg (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44280;47010;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;49190;52260;.
+3051 Rollag (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44090;46440;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;45240;48220;.
+3052 Nore og Uvdal (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45330;47810;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;46210;48550;.
+3053 Jevnaker (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46970;49790;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;48590;51470;.
+3054 Lunner (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44960;48260;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;50210;53460;.
+0101 Halden (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0104 Moss (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0105 Sarpsborg (1992-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0106 Fredrikstad (1994-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0111 Hvaler (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0118 Aremark (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0119 Marker (1964-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0121 Rømskog (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0122 Trøgstad (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0123 Spydeberg (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0124 Askim (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0125 Eidsberg (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0127 Skiptvet (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0128 Rakkestad (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0135 Råde (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0136 Rygge (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0137 Våler (Østfold) (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0138 Hobøl (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0199 Uoppgitt kommune Østfold;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0211 Vestby (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0213 Ski (1931-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0214 Ås (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0215 Frogn (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0216 Nesodden (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0217 Oppegård (1915-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0219 Bærum (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0220 Asker (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0221 Aurskog-Høland (1966-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0226 Sørum (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0227 Fet (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0228 Rælingen (1929-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0229 Enebakk (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0230 Lørenskog (1908-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0231 Skedsmo (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0233 Nittedal (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0234 Gjerdrum (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0235 Ullensaker (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0236 Nes (Akershus) (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0237 Eidsvoll (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0238 Nannestad (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0239 Hurdal (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0299 Uoppgitt kommune Akershus;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0602 Drammen (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0604 Kongsberg (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0605 Ringerike (1977-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0612 Hole (1977-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0615 Flå (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0616 Nes (Buskerud) (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0617 Gol (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0618 Hemsedal (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0619 Ål (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0620 Hol (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0621 Sigdal (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0622 Krødsherad (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0623 Modum (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0624 Øvre Eiker (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0625 Nedre Eiker (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0626 Lier (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0627 Røyken (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0628 Hurum (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0631 Flesberg (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0632 Rollag (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0633 Nore og Uvdal (1962-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0301 Oslo;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;60450;63910;67350
+;;Bor i regionen;Begge kjønn;I alt;I alt;59310;62590;65900
+0399 Uoppgitt komm. Oslo;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+3301 Drammen;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;56400
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;57890
+3303 Kongsberg;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;63040
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;61950
+3305 Ringerike;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;53460
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;54350
+3310 Hole;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;50560
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;63090
+3312 Lier;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;56750
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;62170
+3314 Øvre Eiker;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;52450
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;55870
+3316 Modum;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;55220
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;53460
+3318 Krødsherad;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;50650
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;52680
+3320 Flå;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;51330
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;51400
+3322 Nesbyen;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;51100
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;52460
+3324 Gol;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;51390
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;51770
+3326 Hemsedal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;48980
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;54330
+3328 Ål;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;54090
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;53180
+3330 Hol;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;50430
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;52120
+3332 Sigdal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;49520
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;51990
+3334 Flesberg;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;49000
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;54310
+3336 Rollag;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;48500
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;50890
+3338 Nore og Uvdal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;50160
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;51010
+3401 Kongsvinger;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47880;50580;53380
+;;Bor i regionen;Begge kjønn;I alt;I alt;49030;51710;54520
+3403 Hamar;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;52160;55390;57830
+;;Bor i regionen;Begge kjønn;I alt;I alt;53010;56390;59110
+3405 Lillehammer;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;50240;53330;55850
+;;Bor i regionen;Begge kjønn;I alt;I alt;52010;55400;58200
+3407 Gjøvik;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48490;51490;54370
+;;Bor i regionen;Begge kjønn;I alt;I alt;50190;53100;55960
+3411 Ringsaker;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47340;49970;52510
+;;Bor i regionen;Begge kjønn;I alt;I alt;48120;51060;53530
+3412 Løten;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44650;47950;50360
+;;Bor i regionen;Begge kjønn;I alt;I alt;46980;49700;51980
+3413 Stange;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47380;50430;53280
+;;Bor i regionen;Begge kjønn;I alt;I alt;49620;52750;55300
+3414 Nord-Odal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46050;48620;51340
+;;Bor i regionen;Begge kjønn;I alt;I alt;46440;49240;51920
+3415 Sør-Odal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44560;47200;50450
+;;Bor i regionen;Begge kjønn;I alt;I alt;47850;50790;53430
+3416 Eidskog;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44680;47150;49730
+;;Bor i regionen;Begge kjønn;I alt;I alt;45750;48600;51240
+3417 Grue;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46050;48190;51210
+;;Bor i regionen;Begge kjønn;I alt;I alt;45560;48210;50940
+3418 Åsnes;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44530;47400;50300
+;;Bor i regionen;Begge kjønn;I alt;I alt;45750;48540;51100
+3419 Våler (Innlandet);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44640;47340;49670
+;;Bor i regionen;Begge kjønn;I alt;I alt;44660;46940;49650
+3420 Elverum;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48810;52020;54530
+;;Bor i regionen;Begge kjønn;I alt;I alt;49330;52460;55300
+3421 Trysil;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44050;46780;49410
+;;Bor i regionen;Begge kjønn;I alt;I alt;45210;47900;50440
+3422 Åmot;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48780;53070;55350
+;;Bor i regionen;Begge kjønn;I alt;I alt;48740;52690;55570
+3423 Stor-Elvdal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46690;48720;50680
+;;Bor i regionen;Begge kjønn;I alt;I alt;46110;48310;50260
+3424 Rendalen;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;43460;45570;48780
+;;Bor i regionen;Begge kjønn;I alt;I alt;44340;46960;49220
+3425 Engerdal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;43600;46000;49750
+;;Bor i regionen;Begge kjønn;I alt;I alt;43540;46130;48880
+3426 Tolga;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46160;47450;50370
+;;Bor i regionen;Begge kjønn;I alt;I alt;46310;49100;51730
+3427 Tynset;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46440;49440;52120
+;;Bor i regionen;Begge kjønn;I alt;I alt;46080;49120;51800
+3428 Alvdal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47510;51110;52960
+;;Bor i regionen;Begge kjønn;I alt;I alt;45990;49130;51420
+3429 Folldal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45620;48980;52570
+;;Bor i regionen;Begge kjønn;I alt;I alt;45640;48420;51440
+3430 Os;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45260;49440;51930
+;;Bor i regionen;Begge kjønn;I alt;I alt;45170;48260;51120
+3431 Dovre;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45390;49490;51190
+;;Bor i regionen;Begge kjønn;I alt;I alt;45460;48250;51180
+3432 Lesja;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;43960;46460;48830
+;;Bor i regionen;Begge kjønn;I alt;I alt;45520;48930;51430
+3433 Skjåk;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;43580;46260;49070
+;;Bor i regionen;Begge kjønn;I alt;I alt;44530;47560;50260
+3434 Lom;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44690;47690;50330
+;;Bor i regionen;Begge kjønn;I alt;I alt;46220;48490;51350
+3435 Vågå;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45200;47760;50530
+;;Bor i regionen;Begge kjønn;I alt;I alt;45990;49170;52070
+3436 Nord-Fron;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46570;49690;52810
+;;Bor i regionen;Begge kjønn;I alt;I alt;48940;51450;54390
+3437 Sel;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44610;47600;50480
+;;Bor i regionen;Begge kjønn;I alt;I alt;45960;48860;51780
+3438 Sør-Fron;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44940;47350;50220
+;;Bor i regionen;Begge kjønn;I alt;I alt;47040;49610;52640
+3439 Ringebu;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46140;47790;50030
+;;Bor i regionen;Begge kjønn;I alt;I alt;46280;48710;50730
+3440 Øyer;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44950;47480;49670
+;;Bor i regionen;Begge kjønn;I alt;I alt;47320;50340;52960
+3441 Gausdal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45960;48390;51380
+;;Bor i regionen;Begge kjønn;I alt;I alt;46750;49270;51680
+3442 Østre Toten;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;43740;46330;48710
+;;Bor i regionen;Begge kjønn;I alt;I alt;47290;50300;53310
+3443 Vestre Toten;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;50060;53180;56540
+;;Bor i regionen;Begge kjønn;I alt;I alt;47490;50590;53310
+3446 Gran;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45480;48340;51030
+;;Bor i regionen;Begge kjønn;I alt;I alt;49000;51980;54540
+3447 Søndre Land;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44270;47550;50160
+;;Bor i regionen;Begge kjønn;I alt;I alt;46280;49180;52170
+3448 Nordre Land;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44100;47000;49310
+;;Bor i regionen;Begge kjønn;I alt;I alt;45330;48460;50900
+3449 Sør-Aurdal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44550;46890;49440
+;;Bor i regionen;Begge kjønn;I alt;I alt;45810;48630;51360
+3450 Etnedal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44710;47020;49700
+;;Bor i regionen;Begge kjønn;I alt;I alt;45000;47850;50650
+3451 Nord-Aurdal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45520;48310;51010
+;;Bor i regionen;Begge kjønn;I alt;I alt;46160;48780;51220
+3452 Vestre Slidre;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44720;46580;50240
+;;Bor i regionen;Begge kjønn;I alt;I alt;46130;48090;50740
+3453 Øystre Slidre;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;43220;46100;48800
+;;Bor i regionen;Begge kjønn;I alt;I alt;44950;48310;50900
+3454 Vang;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44080;47190;48680
+;;Bor i regionen;Begge kjønn;I alt;I alt;45930;48160;50410
+0402 Kongsvinger (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0403 Hamar (1992-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0412 Ringsaker (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0415 Løten (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0417 Stange (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0418 Nord-Odal (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0419 Sør-Odal (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0420 Eidskog (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0423 Grue (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0425 Åsnes (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0426 Våler (Hedmark) (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0427 Elverum (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0428 Trysil (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0429 Åmot (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0430 Stor-Elvdal (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0432 Rendalen (1965-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0434 Engerdal (1911-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0436 Tolga (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0437 Tynset (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0438 Alvdal (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0439 Folldal (1914-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0441 Os (Hedmark) (1976-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0499 Uoppgitt kommune Hedmark;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0501 Lillehammer (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0502 Gjøvik (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0511 Dovre (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0512 Lesja (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0513 Skjåk (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0514 Lom (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0515 Vågå (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0516 Nord-Fron (1977-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0517 Sel (1908-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0519 Sør-Fron (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0520 Ringebu (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0521 Øyer (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0522 Gausdal (1962-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0528 Østre Toten (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0529 Vestre Toten (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0532 Jevnaker (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0533 Lunner (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0534 Gran (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0536 Søndre Land (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0538 Nordre Land (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0540 Sør-Aurdal (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0541 Etnedal (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0542 Nord-Aurdal (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0543 Vestre Slidre (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0544 Øystre Slidre (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0545 Vang (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0599 Uoppgitt kommune Oppland;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+3801 Horten (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;51860;54910;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;51320;54290;.
+3802 Holmestrand (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47320;49950;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;51310;54320;.
+3803 Tønsberg (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;50290;53560;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;52420;55470;.
+3804 Sandefjord (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;49880;52740;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;50750;53770;.
+3805 Larvik (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48090;51190;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;49920;52930;.
+3806 Porsgrunn (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;53450;56620;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;52490;55780;.
+3807 Skien (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;49140;52240;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;50830;53930;.
+3808 Notodden (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48690;51780;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;48970;51690;.
+3811 Færder (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48370;51130;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;55110;58520;.
+3812 Siljan (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45840;49220;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;49250;52430;.
+3813 Bamble (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;49340;52280;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;51700;55090;.
+3814 Kragerø (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47120;49710;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;49380;52210;.
+3815 Drangedal (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44990;47900;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;48100;51080;.
+3816 Nome (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45840;49230;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;47700;50840;.
+3817 Midt-Telemark (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45800;47940;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;48330;51300;.
+3818 Tinn (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47040;50440;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;48540;51730;.
+3819 Hjartdal (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;43330;48020;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;47990;50030;.
+3820 Seljord (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45760;49240;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;48890;52400;.
+3821 Kviteseid (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46290;50190;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;49670;53130;.
+3822 Nissedal (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45550;48540;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;46810;50940;.
+3823 Fyresdal (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45460;49240;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;48250;50690;.
+3824 Tokke (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;50680;52450;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;50490;53010;.
+3825 Vinje (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46420;49680;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;48980;52090;.
+0699 Uoppgitt kommune Buskerud;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+3901 Horten;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;57830
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;56870
+3903 Holmestrand;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;52960
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;57150
+3905 Tønsberg;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;56300
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;58410
+3907 Sandefjord;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;55710
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;56530
+3909 Larvik;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;53890
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;55710
+3911 Færder;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;53880
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;61360
+4001 Porsgrunn;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;60120
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;59070
+4003 Skien;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;54770
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;56630
+4005 Notodden;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;54510
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;54600
+4010 Siljan;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;52060
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;55150
+4012 Bamble;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;55290
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;58110
+4014 Kragerø;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;52040
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;55020
+4016 Drangedal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;50890
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;54420
+4018 Nome;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;51390
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;52880
+4020 Midt-Telemark;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;50330
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;53770
+4022 Seljord;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;52580
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;55330
+4024 Hjartdal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;51270
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;53150
+4026 Tinn;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;53910
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;54870
+4028 Kviteseid;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;52280
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;56320
+4030 Nissedal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;52070
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;53640
+4032 Fyresdal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;52480
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;53640
+4034 Tokke;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;55250
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;56590
+4036 Vinje;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;53090
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;55150
+0701 Horten (2002-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0702 Holmestrand (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0704 Tønsberg (1988-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0706 Sandefjord (-2016);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0709 Larvik (1988-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0710 Sandefjord (2017-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0711 Svelvik (1964-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0712 Larvik (2018-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0713 Sande (Vestfold) (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0714 Hof (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0715 Holmestrand (2018-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0716 Re (2002-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0719 Andebu (-2016);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0720 Stokke (-2016);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0722 Nøtterøy (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0723 Tjøme (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0728 Lardal (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0729 Færder (2018-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0799 Uoppgitt kommune Vestfold;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0805 Porsgrunn (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0806 Skien (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0807 Notodden (1913-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0811 Siljan (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0814 Bamble (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0815 Kragerø (1960-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0817 Drangedal (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0819 Nome (1964-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0821 Bø (Telemark) (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0822 Sauherad (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0826 Tinn (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0827 Hjartdal (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0828 Seljord (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0829 Kviteseid (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0830 Nissedal (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0831 Fyresdal (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0833 Tokke (1964-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0834 Vinje (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0899 Uoppgitt kommune Telemark;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+4201 Risør;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46300;49370;51990
+;;Bor i regionen;Begge kjønn;I alt;I alt;49200;52780;55260
+4202 Grimstad;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47960;50920;53430
+;;Bor i regionen;Begge kjønn;I alt;I alt;49920;53270;56000
+4203 Arendal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;51140;54180;57110
+;;Bor i regionen;Begge kjønn;I alt;I alt;51250;54500;57440
+4204 Kristiansand;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;50960;54330;57240
+;;Bor i regionen;Begge kjønn;I alt;I alt;51340;54690;57550
+4205 Lindesnes;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47520;50420;52990
+;;Bor i regionen;Begge kjønn;I alt;I alt;49590;52680;55570
+4206 Farsund;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46820;49990;52310
+;;Bor i regionen;Begge kjønn;I alt;I alt;49120;52320;55290
+4207 Flekkefjord;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48200;51170;54710
+;;Bor i regionen;Begge kjønn;I alt;I alt;50270;53250;56360
+4211 Gjerstad;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;43530;47320;50100
+;;Bor i regionen;Begge kjønn;I alt;I alt;47130;49470;52250
+4212 Vegårshei;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44790;47980;50870
+;;Bor i regionen;Begge kjønn;I alt;I alt;48420;52090;54230
+4213 Tvedestrand;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46050;49000;51550
+;;Bor i regionen;Begge kjønn;I alt;I alt;49410;52110;54760
+4214 Froland;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47290;50010;52090
+;;Bor i regionen;Begge kjønn;I alt;I alt;47520;50530;53590
+4215 Lillesand;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48240;50290;53450
+;;Bor i regionen;Begge kjønn;I alt;I alt;51930;54520;57680
+4216 Birkenes;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44040;47030;49670
+;;Bor i regionen;Begge kjønn;I alt;I alt;46780;49820;52840
+4217 Åmli;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44670;48750;50970
+;;Bor i regionen;Begge kjønn;I alt;I alt;48450;51210;53620
+4218 Iveland;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45600;49250;52830
+;;Bor i regionen;Begge kjønn;I alt;I alt;46330;49720;51880
+4219 Evje og Hornnes;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44770;47450;50560
+;;Bor i regionen;Begge kjønn;I alt;I alt;46470;49130;52280
+4220 Bygland;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45790;48650;51960
+;;Bor i regionen;Begge kjønn;I alt;I alt;48420;51260;52990
+4221 Valle;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47160;50320;53090
+;;Bor i regionen;Begge kjønn;I alt;I alt;48480;51240;54960
+4222 Bykle;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45800;48050;50660
+;;Bor i regionen;Begge kjønn;I alt;I alt;47370;49340;52300
+4223 Vennesla;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46370;49080;52340
+;;Bor i regionen;Begge kjønn;I alt;I alt;47100;49860;52880
+4224 Åseral;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44810;46630;48980
+;;Bor i regionen;Begge kjønn;I alt;I alt;48160;51810;54450
+4225 Lyngdal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45710;48310;50860
+;;Bor i regionen;Begge kjønn;I alt;I alt;47640;50370;53180
+4226 Hægebostad;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46290;52590;52150
+;;Bor i regionen;Begge kjønn;I alt;I alt;48620;54120;54570
+4227 Kvinesdal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46350;49760;52020
+;;Bor i regionen;Begge kjønn;I alt;I alt;48160;51720;54590
+4228 Sirdal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48920;52870;56360
+;;Bor i regionen;Begge kjønn;I alt;I alt;48720;52040;54920
+0901 Risør (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0904 Grimstad (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0906 Arendal (1992-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0911 Gjerstad (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0912 Vegårshei (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0914 Tvedestrand (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0919 Froland (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0926 Lillesand (1962-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0928 Birkenes (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0929 Åmli (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0935 Iveland (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0937 Evje og Hornnes (1960-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0938 Bygland (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0940 Valle (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0941 Bykle (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+0999 Uoppgitt kommune Aust-Agder;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1001 Kristiansand (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1002 Mandal (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1003 Farsund (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1004 Flekkefjord (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1014 Vennesla (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1017 Songdalen (1964-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1018 Søgne (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1021 Marnardal (1964-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1026 Åseral (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1027 Audnedal (1964-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1029 Lindesnes (1964-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1032 Lyngdal (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1034 Hægebostad (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1037 Kvinesdal (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1046 Sirdal (1960-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1099 Uoppgitt kommune Vest-Agder;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1101 Eigersund;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;49160;52140;55310
+;;Bor i regionen;Begge kjønn;I alt;I alt;51110;54300;57360
+1102 Sandnes (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1103 Stavanger;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;59810;63780;66950
+;;Bor i regionen;Begge kjønn;I alt;I alt;61000;64740;68170
+1106 Haugesund;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;51710;55030;58050
+;;Bor i regionen;Begge kjønn;I alt;I alt;53270;56610;59760
+1108 Sandnes;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;56010;58860;62670
+;;Bor i regionen;Begge kjønn;I alt;I alt;55400;58910;62030
+1111 Sokndal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47920;50470;53160
+;;Bor i regionen;Begge kjønn;I alt;I alt;49830;52910;55420
+1112 Lund;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48790;51890;54040
+;;Bor i regionen;Begge kjønn;I alt;I alt;48050;51130;52850
+1114 Bjerkreim;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45470;49360;53310
+;;Bor i regionen;Begge kjønn;I alt;I alt;48630;51990;55250
+1119 Hå;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47120;50000;52690
+;;Bor i regionen;Begge kjønn;I alt;I alt;48500;51540;54250
+1120 Klepp;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47740;50890;54310
+;;Bor i regionen;Begge kjønn;I alt;I alt;51320;54470;57680
+1121 Time;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;49110;52420;55340
+;;Bor i regionen;Begge kjønn;I alt;I alt;52920;56100;59110
+1122 Gjesdal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46490;49780;51640
+;;Bor i regionen;Begge kjønn;I alt;I alt;50890;53910;56490
+1124 Sola;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;64470;67170;70620
+;;Bor i regionen;Begge kjønn;I alt;I alt;60420;64230;67920
+1127 Randaberg;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;49920;52150;55610
+;;Bor i regionen;Begge kjønn;I alt;I alt;56890;60380;63280
+1129 Forsand (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1130 Strand;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46980;50430;53360
+;;Bor i regionen;Begge kjønn;I alt;I alt;52230;55400;58520
+1133 Hjelmeland;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47980;51940;54910
+;;Bor i regionen;Begge kjønn;I alt;I alt;49860;53110;55800
+1134 Suldal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46650;51250;54220
+;;Bor i regionen;Begge kjønn;I alt;I alt;48860;52220;54500
+1135 Sauda;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48690;52030;54580
+;;Bor i regionen;Begge kjønn;I alt;I alt;50630;54200;56550
+1141 Finnøy (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1142 Rennesøy (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1144 Kvitsøy;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;49860;53480;54450
+;;Bor i regionen;Begge kjønn;I alt;I alt;52630;56010;59460
+1145 Bokn;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;49750;52160;53850
+;;Bor i regionen;Begge kjønn;I alt;I alt;53070;56830;59670
+1146 Tysvær;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;52860;57350;61540
+;;Bor i regionen;Begge kjønn;I alt;I alt;52020;55730;58920
+1149 Karmøy;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;50100;52690;55380
+;;Bor i regionen;Begge kjønn;I alt;I alt;52250;55160;58220
+1151 Utsira;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;56720;60400;62620
+;;Bor i regionen;Begge kjønn;I alt;I alt;54510;60060;63170
+1154 Vindafjord (1965-2005);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1159 Ølen (2002-2005);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1160 Vindafjord;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48220;51540;54510
+;;Bor i regionen;Begge kjønn;I alt;I alt;49940;53190;55890
+1199 Uoppgitt kommune Rogaland;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+4601 Bergen;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;54540;58110;61280
+;;Bor i regionen;Begge kjønn;I alt;I alt;54880;58280;61420
+4602 Kinn;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47890;51170;54340
+;;Bor i regionen;Begge kjønn;I alt;I alt;49680;52780;56040
+4611 Etne;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44640;47690;50340
+;;Bor i regionen;Begge kjønn;I alt;I alt;49450;52390;55250
+4612 Sveio;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47900;50380;52700
+;;Bor i regionen;Begge kjønn;I alt;I alt;51120;54300;57020
+4613 Bømlo;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;50810;53400;56730
+;;Bor i regionen;Begge kjønn;I alt;I alt;52790;56070;58960
+4614 Stord;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;49970;52880;55660
+;;Bor i regionen;Begge kjønn;I alt;I alt;52450;55780;58610
+4615 Fitjar;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45200;50040;52260
+;;Bor i regionen;Begge kjønn;I alt;I alt;50100;53390;56370
+4616 Tysnes;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48900;52360;55580
+;;Bor i regionen;Begge kjønn;I alt;I alt;52350;56140;59490
+4617 Kvinnherad;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47930;50950;53550
+;;Bor i regionen;Begge kjønn;I alt;I alt;50900;53820;56890
+4618 Ullensvang;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47510;49700;52710
+;;Bor i regionen;Begge kjønn;I alt;I alt;49450;52340;55340
+4619 Eidfjord;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48180;51340;54390
+;;Bor i regionen;Begge kjønn;I alt;I alt;49380;52760;55840
+4620 Ulvik;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45920;48890;53100
+;;Bor i regionen;Begge kjønn;I alt;I alt;47660;50970;53470
+4621 Voss;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46950;49470;52210
+;;Bor i regionen;Begge kjønn;I alt;I alt;49250;52050;54940
+4622 Kvam;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47380;50280;52980
+;;Bor i regionen;Begge kjønn;I alt;I alt;50900;53850;56990
+4623 Samnanger;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46260;49620;52110
+;;Bor i regionen;Begge kjønn;I alt;I alt;50400;53460;56840
+4624 Bjørnafjorden;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48010;51130;53830
+;;Bor i regionen;Begge kjønn;I alt;I alt;52250;55440;58560
+4625 Austevoll;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;52880;55970;59910
+;;Bor i regionen;Begge kjønn;I alt;I alt;52230;55830;59370
+4626 Øygarden;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;49800;53370;56190
+;;Bor i regionen;Begge kjønn;I alt;I alt;52100;55710;58580
+4627 Askøy;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48850;52100;54910
+;;Bor i regionen;Begge kjønn;I alt;I alt;52450;55810;58770
+4628 Vaksdal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48170;49910;52220
+;;Bor i regionen;Begge kjønn;I alt;I alt;49640;52650;54950
+4629 Modalen;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;49590;53230;55740
+;;Bor i regionen;Begge kjønn;I alt;I alt;49810;51780;53640
+4630 Osterøy;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46670;49960;52410
+;;Bor i regionen;Begge kjønn;I alt;I alt;47840;51080;53920
+4631 Alver;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;49140;52120;55570
+;;Bor i regionen;Begge kjønn;I alt;I alt;51410;54630;57710
+4632 Austrheim;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47000;49600;52200
+;;Bor i regionen;Begge kjønn;I alt;I alt;52710;55630;58850
+4633 Fedje;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;56660;58490;:
+;;Bor i regionen;Begge kjønn;I alt;I alt;52880;54690;61200
+4634 Masfjorden;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46140;49650;52380
+;;Bor i regionen;Begge kjønn;I alt;I alt;49660;52770;55350
+4635 Gulen;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47040;50020;53970
+;;Bor i regionen;Begge kjønn;I alt;I alt;48010;51230;54720
+4636 Solund;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47970;50710;54850
+;;Bor i regionen;Begge kjønn;I alt;I alt;48620;51640;54650
+4637 Hyllestad;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47100;51120;53070
+;;Bor i regionen;Begge kjønn;I alt;I alt;47830;49760;53530
+4638 Høyanger;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47800;50690;54350
+;;Bor i regionen;Begge kjønn;I alt;I alt;49320;52480;55790
+4639 Vik;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46880;50950;52760
+;;Bor i regionen;Begge kjønn;I alt;I alt;48350;51820;53770
+4640 Sogndal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;49260;52230;54450
+;;Bor i regionen;Begge kjønn;I alt;I alt;49200;52350;54650
+4641 Aurland;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46400;48680;50830
+;;Bor i regionen;Begge kjønn;I alt;I alt;47930;50250;52480
+4642 Lærdal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46970;49940;52140
+;;Bor i regionen;Begge kjønn;I alt;I alt;48460;51090;53940
+4643 Årdal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;52500;55560;58710
+;;Bor i regionen;Begge kjønn;I alt;I alt;52770;55960;58990
+4644 Luster;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45060;47660;50750
+;;Bor i regionen;Begge kjønn;I alt;I alt;47040;49870;52630
+4645 Askvoll;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47220;49990;52880
+;;Bor i regionen;Begge kjønn;I alt;I alt;48580;51680;54690
+4646 Fjaler;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46310;49550;52510
+;;Bor i regionen;Begge kjønn;I alt;I alt;48970;52620;55100
+4647 Sunnfjord;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;49330;52340;55080
+;;Bor i regionen;Begge kjønn;I alt;I alt;49960;52960;55730
+4648 Bremanger;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47450;50640;53330
+;;Bor i regionen;Begge kjønn;I alt;I alt;48160;51180;54370
+4649 Stad;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46650;49500;52200
+;;Bor i regionen;Begge kjønn;I alt;I alt;48070;51040;53940
+4650 Gloppen;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47380;50610;53040
+;;Bor i regionen;Begge kjønn;I alt;I alt;47790;50960;53840
+4651 Stryn;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;43560;46160;49060
+;;Bor i regionen;Begge kjønn;I alt;I alt;45130;48010;51000
+1201 Bergen (1972-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1211 Etne (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1216 Sveio (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1219 Bømlo (1916-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1221 Stord (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1222 Fitjar (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1223 Tysnes (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1224 Kvinnherad (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1227 Jondal (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1228 Odda (1913-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1231 Ullensvang (1977-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1232 Eidfjord (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1233 Ulvik (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1234 Granvin (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1235 Voss (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1238 Kvam (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1241 Fusa (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1242 Samnanger (1907-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1243 Os (Hordaland) (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1244 Austevoll (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1245 Sund (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1246 Fjell (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1247 Askøy (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1251 Vaksdal (1964-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1252 Modalen (1910-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1253 Osterøy (1964-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1256 Meland (1924-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1259 Øygarden (1964-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1260 Radøy (1964-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1263 Lindås (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1264 Austrheim (1910-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1265 Fedje (1948-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1266 Masfjorden (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1299 Uoppgitt kommune Hordaland;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1401 Flora (1964-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1411 Gulen (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1412 Solund (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1413 Hyllestad (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1416 Høyanger (1964-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1417 Vik (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1418 Balestrand (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1419 Leikanger (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1420 Sogndal (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1421 Aurland (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1422 Lærdal (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1424 Årdal (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1426 Luster (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1428 Askvoll (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1429 Fjaler (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1430 Gaular (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1431 Jølster (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1432 Førde (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1433 Naustdal (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1438 Bremanger (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1439 Vågsøy (1964-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1441 Selje (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1443 Eid (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1444 Hornindal (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1445 Gloppen (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1449 Stryn (1977-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1499 Uoppgitt kommune Sogn og Fjordane;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1502 Molde (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1503 Kristiansund  (-2007);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1504 Ålesund (1977-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1505 Kristiansund;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;50330;53570;56530
+;;Bor i regionen;Begge kjønn;I alt;I alt;50920;54300;57120
+1506 Molde;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;50360;53740;56530
+;;Bor i regionen;Begge kjønn;I alt;I alt;51580;55120;57800
+1507 Ålesund (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;50750;54040;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;51600;55010;.
+1508 Ålesund;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;57340
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;58100
+1511 Vanylven;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46980;49350;52940
+;;Bor i regionen;Begge kjønn;I alt;I alt;50760;53720;56310
+1514 Sande;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44690;48950;52050
+;;Bor i regionen;Begge kjønn;I alt;I alt;48040;52230;55350
+1515 Herøy (Møre og Romsdal);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;51290;55370;58600
+;;Bor i regionen;Begge kjønn;I alt;I alt;50930;54660;57490
+1516 Ulstein;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;52200;56090;58620
+;;Bor i regionen;Begge kjønn;I alt;I alt;53330;56880;59950
+1517 Hareid;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;50690;54030;58130
+;;Bor i regionen;Begge kjønn;I alt;I alt;49400;52940;55420
+1519 Volda (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1520 Ørsta;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47190;50720;53060
+;;Bor i regionen;Begge kjønn;I alt;I alt;48170;51890;54120
+1523 Ørskog (1977-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1524 Norddal (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1525 Stranda;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44880;47520;50420
+;;Bor i regionen;Begge kjønn;I alt;I alt;45980;48840;51840
+1526 Stordal (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1528 Sykkylven;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47470;50650;52900
+;;Bor i regionen;Begge kjønn;I alt;I alt;47900;51230;53650
+1529 Skodje (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1531 Sula;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47790;51020;53530
+;;Bor i regionen;Begge kjønn;I alt;I alt;49580;52760;55580
+1532 Giske;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47790;51250;53650
+;;Bor i regionen;Begge kjønn;I alt;I alt;50830;54610;57240
+1534 Haram (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1535 Vestnes;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44510;47960;49660
+;;Bor i regionen;Begge kjønn;I alt;I alt;48060;50970;54160
+1539 Rauma;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47190;50160;52860
+;;Bor i regionen;Begge kjønn;I alt;I alt;48360;50910;53830
+1543 Nesset (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1545 Midsund (1965-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1546 Sandøy (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1547 Aukra;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;49340;52320;54620
+;;Bor i regionen;Begge kjønn;I alt;I alt;49660;53310;55790
+1548 Fræna (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1551 Eide (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1554 Averøy;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48130;51710;54310
+;;Bor i regionen;Begge kjønn;I alt;I alt;51800;54630;57720
+1556 Frei (-2007);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1557 Gjemnes;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46490;48430;51290
+;;Bor i regionen;Begge kjønn;I alt;I alt;47680;51330;53590
+1560 Tingvoll;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44150;47010;49500
+;;Bor i regionen;Begge kjønn;I alt;I alt;48290;50500;53780
+1563 Sunndal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;52200;54570;57730
+;;Bor i regionen;Begge kjønn;I alt;I alt;52450;55040;58000
+1566 Surnadal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46680;49830;52470
+;;Bor i regionen;Begge kjønn;I alt;I alt;48010;51010;53570
+1567 Rindal (-2018);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1569 Aure (-2005);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1571 Halsa (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1572 Tustna (-2005);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1573 Smøla;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48220;51060;52510
+;;Bor i regionen;Begge kjønn;I alt;I alt;49410;52540;54860
+1576 Aure;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;50190;52700;57480
+;;Bor i regionen;Begge kjønn;I alt;I alt;51300;54590;57710
+1577 Volda;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48090;51340;54280
+;;Bor i regionen;Begge kjønn;I alt;I alt;49550;52870;55450
+1578 Fjord;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45810;48600;51540
+;;Bor i regionen;Begge kjønn;I alt;I alt;46610;49210;51530
+1579 Hustadvika;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46940;49580;52370
+;;Bor i regionen;Begge kjønn;I alt;I alt;48500;51470;54120
+1580 Haram;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;52050
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;54770
+1599 Uoppgitt kommune Møre og Romsdal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+5001 Trondheim - Tråante;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;53840;57220;60040
+;;Bor i regionen;Begge kjønn;I alt;I alt;54650;58030;60880
+5004 Steinkjer (2018-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+5005 Namsos (2018-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+5006 Steinkjer;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48120;51230;53570
+;;Bor i regionen;Begge kjønn;I alt;I alt;48590;51510;54010
+5007 Namsos - Nåavmesjenjaelmie;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48630;51940;54390
+;;Bor i regionen;Begge kjønn;I alt;I alt;49530;52770;55400
+5011 Hemne (2018-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+5012 Snillfjord (2018-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+5013 Hitra (2018-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+5014 Frøya;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;50670;54600;56260
+;;Bor i regionen;Begge kjønn;I alt;I alt;49090;52560;54870
+5015 Ørland (2018-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+5016 Agdenes (2018-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+5017 Bjugn (2018-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+5018 Åfjord (2018-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+5019 Roan (2018-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+5020 Osen;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44710;47840;49700
+;;Bor i regionen;Begge kjønn;I alt;I alt;45730;48580;51780
+5021 Oppdal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46030;48410;51490
+;;Bor i regionen;Begge kjønn;I alt;I alt;47590;50300;53330
+5022 Rennebu;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45760;48560;51700
+;;Bor i regionen;Begge kjønn;I alt;I alt;45390;48240;50190
+5023 Meldal (2018-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+5024 Orkdal (2018-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+5025 Røros - Rosse;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44520;47420;50780
+;;Bor i regionen;Begge kjønn;I alt;I alt;45940;49000;52180
+5026 Holtålen;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45130;49340;50950
+;;Bor i regionen;Begge kjønn;I alt;I alt;46610;50120;52490
+5027 Midtre Gauldal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45360;48540;50890
+;;Bor i regionen;Begge kjønn;I alt;I alt;46040;49410;52010
+5028 Melhus;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46550;49800;52780
+;;Bor i regionen;Begge kjønn;I alt;I alt;49350;52840;55570
+5029 Skaun;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44830;48120;50210
+;;Bor i regionen;Begge kjønn;I alt;I alt;50700;53600;56450
+5030 Klæbu (2018-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+5031 Malvik;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46630;49510;52640
+;;Bor i regionen;Begge kjønn;I alt;I alt;54870;58180;61200
+5032 Selbu;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44290;47080;49880
+;;Bor i regionen;Begge kjønn;I alt;I alt;47400;50440;53460
+5033 Tydal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;49140;50940;54350
+;;Bor i regionen;Begge kjønn;I alt;I alt;48450;51120;55470
+5034 Meråker;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;43690;46950;49730
+;;Bor i regionen;Begge kjønn;I alt;I alt;44420;47930;51080
+5035 Stjørdal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;51220;54560;58030
+;;Bor i regionen;Begge kjønn;I alt;I alt;50760;54090;57150
+5036 Frosta;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;39350;42580;46840
+;;Bor i regionen;Begge kjønn;I alt;I alt;45370;47780;51120
+5037 Levanger - Levangke;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48510;51970;54510
+;;Bor i regionen;Begge kjønn;I alt;I alt;49670;53010;55620
+5038 Verdal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47600;50480;53500
+;;Bor i regionen;Begge kjønn;I alt;I alt;47720;50890;53770
+5039 Verran (2018-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+5040 Namdalseid (2018-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+5041 Snåase - Snåsa;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44500;48860;50330
+;;Bor i regionen;Begge kjønn;I alt;I alt;46410;49880;51840
+5042 Lierne;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44350;47580;50440
+;;Bor i regionen;Begge kjønn;I alt;I alt;45720;48980;51970
+5043 Raarvihke - Røyrvik;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47370;51210;54540
+;;Bor i regionen;Begge kjønn;I alt;I alt;46770;50530;52170
+5044 Namsskogan;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46540;48910;52260
+;;Bor i regionen;Begge kjønn;I alt;I alt;45920;48580;51960
+5045 Grong;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46490;49740;52810
+;;Bor i regionen;Begge kjønn;I alt;I alt;46920;50130;52880
+5046 Høylandet;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46320;48680;51810
+;;Bor i regionen;Begge kjønn;I alt;I alt;47270;49380;52770
+5047 Overhalla;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47540;49960;53750
+;;Bor i regionen;Begge kjønn;I alt;I alt;48330;51180;54190
+5048 Fosnes (2018-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+5049 Flatanger;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;49990;52640;54750
+;;Bor i regionen;Begge kjønn;I alt;I alt;48330;51280;53610
+5050 Vikna (2018-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+5051 Nærøy (2018-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+5052 Leka;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48110;52630;54410
+;;Bor i regionen;Begge kjønn;I alt;I alt;47130;51050;53550
+5053 Inderøy;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45510;47640;50300
+;;Bor i regionen;Begge kjønn;I alt;I alt;49360;52160;54800
+5054 Indre Fosen;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46560;48930;51920
+;;Bor i regionen;Begge kjønn;I alt;I alt;47510;50100;52970
+5055 Heim;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47010;50020;52460
+;;Bor i regionen;Begge kjønn;I alt;I alt;49360;52640;55360
+5056 Hitra;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46450;48970;52150
+;;Bor i regionen;Begge kjønn;I alt;I alt;47990;51190;53940
+5057 Ørland;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;49370;52990;55850
+;;Bor i regionen;Begge kjønn;I alt;I alt;49740;53290;56410
+5058 Åfjord;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47730;50230;52860
+;;Bor i regionen;Begge kjønn;I alt;I alt;47720;50540;53690
+5059 Orkland;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47580;50550;53130
+;;Bor i regionen;Begge kjønn;I alt;I alt;48090;51070;53810
+5060 Nærøysund;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47420;51140;54510
+;;Bor i regionen;Begge kjønn;I alt;I alt;48800;52360;55510
+5061 Rindal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46420;48620;50580
+;;Bor i regionen;Begge kjønn;I alt;I alt;47060;49640;52170
+5099 Uoppgitt kommune Trøndelag;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1601 Trondheim (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1612 Hemne (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1613 Snillfjord (1924-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1617 Hitra (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1620 Frøya (1964-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1621 Ørland (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1622 Agdenes (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1624 Rissa (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1627 Bjugn (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1630 Åfjord (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1632 Roan (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1633 Osen (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1634 Oppdal (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1635 Rennebu (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1636 Meldal (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1638 Orkdal (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1640 Røros (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1644 Holtålen (1972-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1648 Midtre Gauldal (1964-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1653 Melhus (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1657 Skaun (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1662 Klæbu (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1663 Malvik (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1664 Selbu (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1665 Tydal (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1699 Uoppgitt kommune Sør-Trøndelag;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1702 Steinkjer (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1703 Namsos (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1711 Meråker (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1714 Stjørdal (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1717 Frosta (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1718 Leksvik (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1719 Levanger (1962-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1721 Verdal (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1723 Mosvik  (-2011);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1724 Verran (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1725 Namdalseid (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1729 Inderøy (-2011);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1736 Snåase - Snåsa (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1738 Lierne (1964-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1739 Raarvihke - Røyrvik (1923-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1740 Namsskogan (1923-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1742 Grong (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1743 Høylandet (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1744 Overhalla (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1748 Fosnes (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1749 Flatanger (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1750 Vikna (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1751 Nærøy (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1755 Leka (-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1756 Inderøy (2012-2017);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1799 Uoppgitt kommune Nord-Trøndelag;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1804 Bodø;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;51430;54880;57930
+;;Bor i regionen;Begge kjønn;I alt;I alt;52040;55360;58440
+1805 Narvik (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1806 Narvik;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;49150;52260;55240
+;;Bor i regionen;Begge kjønn;I alt;I alt;50000;53120;55930
+1811 Bindal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47280;50070;53390
+;;Bor i regionen;Begge kjønn;I alt;I alt;45580;48440;52450
+1812 Sømna;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45610;48260;50880
+;;Bor i regionen;Begge kjønn;I alt;I alt;46970;50390;53310
+1813 Brønnøy;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;49020;51880;54850
+;;Bor i regionen;Begge kjønn;I alt;I alt;49600;52150;54840
+1815 Vega;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44750;48160;50600
+;;Bor i regionen;Begge kjønn;I alt;I alt;48380;51260;53350
+1816 Vevelstad;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;50230;53010;56050
+;;Bor i regionen;Begge kjønn;I alt;I alt;48660;51400;54710
+1818 Herøy (Nordland);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48300;51570;53430
+;;Bor i regionen;Begge kjønn;I alt;I alt;49390;52310;54650
+1820 Alstahaug;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48930;52080;54840
+;;Bor i regionen;Begge kjønn;I alt;I alt;48820;52210;55170
+1822 Leirfjord;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45630;48950;51240
+;;Bor i regionen;Begge kjønn;I alt;I alt;46950;50680;53140
+1824 Vefsn;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47830;51110;54130
+;;Bor i regionen;Begge kjønn;I alt;I alt;48340;51640;54870
+1825 Grane;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44460;46680;48770
+;;Bor i regionen;Begge kjønn;I alt;I alt;44850;47540;50170
+1826 Aarborte - Hattfjelldal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;43680;46700;48270
+;;Bor i regionen;Begge kjønn;I alt;I alt;43800;46580;49190
+1827 Dønna;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48010;52570;54590
+;;Bor i regionen;Begge kjønn;I alt;I alt;48550;52790;55160
+1828 Nesna;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46810;50470;52960
+;;Bor i regionen;Begge kjønn;I alt;I alt;47050;51500;53670
+1832 Hemnes;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46660;50420;53780
+;;Bor i regionen;Begge kjønn;I alt;I alt;46680;49720;53740
+1833 Rana - Raane;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;49370;52410;55360
+;;Bor i regionen;Begge kjønn;I alt;I alt;49590;52850;55660
+1834 Lurøy;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;51450;55710;58520
+;;Bor i regionen;Begge kjønn;I alt;I alt;50460;54380;57180
+1835 Træna;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45080;47090;53830
+;;Bor i regionen;Begge kjønn;I alt;I alt;45980;48450;50870
+1836 Rødøy;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;49610;53270;56100
+;;Bor i regionen;Begge kjønn;I alt;I alt;49380;52150;55720
+1837 Meløy;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48030;51130;53880
+;;Bor i regionen;Begge kjønn;I alt;I alt;49290;52610;55570
+1838 Gildeskål;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48160;50750;52980
+;;Bor i regionen;Begge kjønn;I alt;I alt;48700;51410;53430
+1839 Beiarn;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;43040;46800;50240
+;;Bor i regionen;Begge kjønn;I alt;I alt;44730;48270;51370
+1840 Saltdal;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;49130;52010;54470
+;;Bor i regionen;Begge kjønn;I alt;I alt;48820;51790;54350
+1841 Fauske - Fuossko;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47650;50480;52940
+;;Bor i regionen;Begge kjønn;I alt;I alt;49050;52040;54740
+1842 Skjerstad (-2004);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1845 Sørfold - Fuolldá;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;50070;52890;55770
+;;Bor i regionen;Begge kjønn;I alt;I alt;48730;51170;53790
+1848 Steigen;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;50200;53760;56340
+;;Bor i regionen;Begge kjønn;I alt;I alt;49900;52810;55810
+1849 Hamarøy - Hábmer (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1850 Divtasvuodna - Tysfjord (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1851 Lødingen;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48280;51300;53300
+;;Bor i regionen;Begge kjønn;I alt;I alt;46770;49440;52330
+1852 Tjeldsund (1909-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1853 Evenes - Evenássi;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48520;52880;54970
+;;Bor i regionen;Begge kjønn;I alt;I alt;46500;50510;53360
+1854 Ballangen (1925-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1856 Røst;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45570;47520;51500
+;;Bor i regionen;Begge kjønn;I alt;I alt;44610;47640;50230
+1857 Værøy;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47000;48200;52020
+;;Bor i regionen;Begge kjønn;I alt;I alt;46600;49070;50970
+1859 Flakstad;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44910;47020;51370
+;;Bor i regionen;Begge kjønn;I alt;I alt;45550;47800;51570
+1860 Vestvågøy;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46510;49140;51690
+;;Bor i regionen;Begge kjønn;I alt;I alt;47310;50170;53040
+1865 Vågan;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46630;48970;51470
+;;Bor i regionen;Begge kjønn;I alt;I alt;47780;50190;52810
+1866 Hadsel;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48500;51960;54530
+;;Bor i regionen;Begge kjønn;I alt;I alt;48400;51680;54300
+1867 Bø (Nordland);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46380;49040;52610
+;;Bor i regionen;Begge kjønn;I alt;I alt;46330;49030;52530
+1868 Øksnes;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47680;49380;52280
+;;Bor i regionen;Begge kjønn;I alt;I alt;47150;50180;52470
+1870 Sortland - Suortá;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46520;49990;52570
+;;Bor i regionen;Begge kjønn;I alt;I alt;48590;51900;54470
+1871 Andøy;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;51320;54720;57720
+;;Bor i regionen;Begge kjønn;I alt;I alt;49660;52100;54180
+1874 Moskenes;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;43010;45210;46580
+;;Bor i regionen;Begge kjønn;I alt;I alt;45630;47700;48910
+1875 Hábmer - Hamarøy;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48100;50620;55430
+;;Bor i regionen;Begge kjønn;I alt;I alt;48710;51100;55490
+1899 Uoppgitt kommune Nordland;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+5501 Tromsø;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;57370
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;58230
+5503 Harstad - Hárstták;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;56290
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;57230
+5510 Kvæfjord;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;53510
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;53710
+5512 Dielddanuorri - Tjeldsund;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;55190
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;55050
+5514 Ibestad;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;54110
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;54030
+5516 Gratangen - Rivtták;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;49840
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;50900
+5518 Loabák - Lavangen;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;49940
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;51250
+5520 Bardu;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;57250
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;56320
+5522 Salangen;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;53830
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;53810
+5524 Målselv;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;54680
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;54860
+5526 Sørreisa;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;53860
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;54200
+5528 Dyrøy;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;52260
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;52450
+5530 Senja;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;52550
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;53670
+5532 Balsfjord;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;51300
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;52580
+5534 Karlsøy;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;50670
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;50870
+5536 Lyngen;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;51800
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;52340
+5538 Storfjord - Omasvuotna - Omasvuono;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;50680
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;51460
+5540 Gáivuotna - Kåfjord - Kaivuono;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;53560
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;53390
+5542 Skjervøy;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;51280
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;52640
+5544 Nordreisa - Ráisa - Raisi;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;51960
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;53880
+5546 Kvænangen;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;54400
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;53350
+5601 Alta;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;54980
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;55570
+5603 Hammerfest - Hámmerfeasta;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;58760
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;57600
+5605 Sør-Varanger;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;55350
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;55160
+5607 Vadsø;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;56110
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;55640
+5610 Kárásjohka - Karasjok;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;54340
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;53120
+5612 Guovdageaidnu - Kautokeino;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;52230
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;52500
+5614 Loppa;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;50310
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;50540
+5616 Hasvik;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;50440
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;49500
+5618 Måsøy;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;49220
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;50620
+5620 Nordkapp;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;53000
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;52840
+5622 Porsanger - Porsángu - Porsanki;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;53920
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;54400
+5624 Lebesby;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;52190
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;52140
+5626 Gamvik;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;48430
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;49620
+5628 Deatnu - Tana;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;53250
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;52700
+5630 Berlevåg;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;51520
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;50840
+5632 Båtsfjord;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;50060
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;49730
+5634 Vardø;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;52330
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;52250
+5636 Unjárga - Nesseby;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;51030
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;52820
+5401 Tromsø (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;51460;54470;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;52270;55310;.
+5402 Harstad - Hárstták (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;49960;53240;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;50680;54050;.
+5403 Alta (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;48720;51920;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;49560;52610;.
+5404 Vardø (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46440;50330;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;46600;49680;.
+5405 Vadsø (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;49670;53030;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;49310;52660;.
+5406 Hammerfest - Hámmerfeasta (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;52340;55250;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;51430;54380;.
+5411 Kvæfjord (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47090;50130;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;47050;50190;.
+5412 Dielddanuorri - Tjeldsund (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47700;51390;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;47840;51720;.
+5413 Ibestad (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46580;50510;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;46190;50030;.
+5414 Gratangen (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;43900;48700;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;45390;49810;.
+5415 Loabák - Lavangen (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45540;47900;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;45750;48890;.
+5416 Bardu (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;51410;55310;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;50980;53820;.
+5417 Salangen (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46790;50180;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;47600;50510;.
+5418 Målselv (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;49190;51550;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;49010;51780;.
+5419 Sørreisa (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47710;51730;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;48990;52210;.
+5420 Dyrøy (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46780;50040;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;47190;49890;.
+5421 Senja (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47020;49900;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;47970;50980;.
+5422 Balsfjord (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45270;48390;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;47010;49920;.
+5423 Karlsøy (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44220;49060;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;45290;48790;.
+5424 Lyngen (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46760;49060;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;47380;50150;.
+5425 Storfjord - Omasvuotna - Omasvuono (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45500;48390;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;46560;49310;.
+5426 Gáivuotna - Kåfjord - Kaivuono (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46700;51080;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;47080;50690;.
+5427 Skjervøy (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44300;48300;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;45990;49370;.
+5428 Nordreisa - Ráisa - Raisi (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46730;49310;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;48120;50940;.
+5429 Kvænangen (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;54230;52870;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;47540;50510;.
+5430 Guovdageaidnu - Kautokeino (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47230;49950;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;47160;50210;.
+5432 Loppa (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44980;47830;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;46050;48900;.
+5433 Hasvik (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;43940;47650;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;43060;46920;.
+5434 Måsøy (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;43750;48210;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;45410;50130;.
+5435 Nordkapp (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;46440;50110;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;47110;49880;.
+5436 Porsanger - Porsángu - Porsanki (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47620;51070;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;48210;51720;.
+5437 Kárásjohka - Karasjok (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;50170;52990;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;49430;51580;.
+5438 Lebesby (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47260;50090;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;47320;49790;.
+5439 Gamvik (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;42420;45090;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;44270;46920;.
+5440 Berlevåg (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45100;47820;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;45490;48510;.
+5441 Deatnu - Tana (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;47600;50030;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;47550;50770;.
+5442 Unjárga - Nesseby (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;45870;49110;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;47190;50250;.
+5443 Båtsfjord (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;44940;47110;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;44780;46840;.
+5444 Sør-Varanger (2020-2023);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;49360;52940;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;48600;52900;.
+1901 Harstad (-2012);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1902 Tromsø (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1903 Harstad - Hárstták (2013-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1911 Kvæfjord (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1913 Skånland (1926-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1915 Bjarkøy (-2012);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1917 Ibestad (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1919 Gratangen (1926-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1920 Loabák - Lavangen (1907-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1922 Bardu (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1923 Salangen (1977-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1924 Målselv (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1925 Sørreisa (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1926 Dyrøy (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1927 Tranøy (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1928 Torsken (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1929 Berg (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1931 Lenvik (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1933 Balsfjord (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1936 Karlsøy (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1938 Lyngen (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1939 Storfjord - Omasvuotna - Omasvuono (1931-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1940 Gáivuotna - Kåfjord - Kaivuono (1931-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1941 Skjervøy (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1942 Nordreisa - Ráisa - Raisi (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1943 Kvænangen (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+1999 Uoppgitt kommune Troms;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+2002 Vardø (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+2003 Vadsø (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+2004 Hammerfest (1992-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+2011 Guovdageaidnu - Kautokeino (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+2012 Alta (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+2014 Loppa (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+2015 Hasvik (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+2017 Kvalsund (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+2018 Måsøy (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+2019 Nordkapp (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+2020 Porsanger - Porsángu - Porsanki (1964-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+2021 Kárásjohka - Karasjok (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+2022 Lebesby (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+2023 Gamvik (1914-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+2024 Berlevåg (1914-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+2025 Deatnu - Tana (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+2027 Unjárga - Nesseby (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+2028 Båtsfjord (1955-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+2030 Sør-Varanger (-2019);Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+2099 Uoppgitt kommune Finnmark;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;.;.;.
+;;Bor i regionen;Begge kjønn;I alt;I alt;.;.;.
+9999 Uoppgitt kommune;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;43960;47830;47610
+;;Bor i regionen;Begge kjønn;I alt;I alt;52770;:;:
+9999g Ikke Fastlands-Norge;Gjennomsnitt;Arbeider i regionen;Begge kjønn;I alt;I alt;77250;82140;85320
+;;Bor i regionen;Begge kjønn;I alt;I alt;44230;47250;50530
+;;;;;;;;
+For 2015-tallene er referansemåneden september, og altså ikke november som er referansemåneden for årene etter 2015. I tillegg er metoden for å beregne arbeidstid annerledes for 2015-tallene enn for årene etter 2015. Man kan likevel sammenligne 2015 og 2016, men endringer må tolkes med forsiktighet. Mer informasjon om lønnsstatistikken finnes under <a href='https://www.ssb.no/lonnansatt'> Om statistikken </a> .;;;;;;;;
+: = Vises ikke av konfidensialitetshensyn. Tall publiseres ikke for å unngå å identifisere personer eller virksomheter.;;;;;;;;
+. = Ikke mulig å oppgi tall. Tall finnes ikke på dette tidspunktet fordi kategorien ikke var i bruk da tallene ble samlet inn.;;;;;;;;
+region:;;;;;;;;
+"<a href='https://www.ssb.no/offentlig-sektor/kommunekatalog/endringer-i-de-regionale-inndelingene' target='footnote'><b>Se liste over endringer i de regionale inndelingene.</b></a> <br><br>
+<a href='https://www.ssb.no/statbank/hvordan-bruke-statistikkbanken/statistikkbanktabeller-med-sammenslatte-tidsserier' target='footnote'>Tabeller som bruker ny regioninndeling også for årene før 2024.</a>";;;;;;;;
+;;;;;;;;
+region:;;;;;;;;
+Stavanger:;;;;;;;;
+1.1.2020 ble kommunene 1141 Finnøy og 1142 Rennesøy innlemmet i 1103 Stavanger.;;;;;;;;
+;;;;;;;;
+region:;;;;;;;;
+Trondheim - Tråante:;;;;;;;;
+1.1.2020 ble kommunen 5030 Klæbu innlemmet i 5001 Trondheim.;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+Sist endret:;;;;;;;;
+Månedslønn (kr):;;;;;;;;
+20250206 08:00;;;;;;;;
+;;;;;;;;
+Kilde:;;;;;;;;
+Statistisk sentralbyrå;;;;;;;;
+;;;;;;;;
+Kontakt:;;;;;;;;
+Månedslønn (kr):;;;;;;;;
+Håkon Grini, Statistisk sentralbyrå;;;;;;;;
+ +47 482 05 163;;;;;;;;
+gri@ssb.no;;;;;;;;
+;;;;;;;;
+ Arbeidsmarked, Statistisk sentralbyrå;;;;;;;;
+ +47 62 88 50 00;;;;;;;;
+arbeidsmarked@ssb.no;;;;;;;;
+;;;;;;;;
+Knut Snellingen Bye, Statistisk sentralbyrå;;;;;;;;
+ +47 408 11 326;;;;;;;;
+ksb@ssb.no;;;;;;;;
+;;;;;;;;
+Magnus Berglund Johnsen, Statistisk sentralbyrå;;;;;;;;
+ +47 409 02 375;;;;;;;;
+mjo@ssb.no;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+Måleenhet:;;;;;;;;
+Månedslønn (kr):;;;;;;;;
+kr;;;;;;;;
+Målemetode:;;;;;;;;
+Månedslønn (kr):;;;;;;;;
+Referansetid:;;;;;;;;
+Månedslønn (kr);;;;;;;;
+November;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+Offisiell statistikk;;;;;;;;
+;;;;;;;;
+Database:;;;;;;;;
+Ekstern PRODUKSJON;;;;;;;;
+;;;;;;;;
+Intern referansekode:;;;;;;;;
+Manedslonn;;;;;;;;

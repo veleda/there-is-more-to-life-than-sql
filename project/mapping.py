@@ -8,9 +8,9 @@ import parse_data as p
 
 # Read OTTR template and init mapping
 with open('tpl/tpl.ttl', 'r') as file:
-    content = file.read()
+    tpl = file.read()
 
-m = Mapping(content)
+m = Mapping(tpl)
 
 # Expand mappings -- mapping instance data according to OTTR templates into RDF
 m.expand("http://data.eksempel.no/tpl/Vannkraftverk", p.parse_nve())

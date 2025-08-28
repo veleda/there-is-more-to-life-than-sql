@@ -87,7 +87,7 @@ veronika@data-treehouse.com\\
 
 \begin{frame}
 \begin{center}
-\includegraphics[width=0.9\textwidth]{img/gartner.png}
+\includegraphics[width=0.8\textwidth]{img/gartner.png}
 \end{center}
 \end{frame}
 
@@ -107,6 +107,11 @@ veronika@data-treehouse.com\\
 \begin{center}
 \includegraphics[width=\textwidth]{img/timeline.png}
 \end{center}
+\end{frame}
+
+
+\begin{frame}
+\Huge{\textbf{RDF}}
 \end{frame}
 
 
@@ -265,20 +270,7 @@ http://data.eksempel.no/Tynna
 \end{code}
 \end{frame}
 
-\begin{frame}{}
 
-\begin{tikzpicture}
-\node[circle, draw=black, minimum width=6cm] (1) at (0,0) {}; 
-\node[circle, draw=black, minimum width=3.5cm] (2) at (0.75,1) {}; 
-\node[] (2) at (0.8,2.4) {\footnotesize{Vannkraftverk}}; 
-\node[] (2) at (-2,1) {{Kraftverk}}; 
-\node[circle, draw=black, minimum width=1.25cm] (3) at (0,1.5) {\footnotesize{Mikro}}; 
-\node[circle, draw=black, minimum width=1.25cm] (3) at (1.5,1.5) {\footnotesize{Mini}}; 
-\node[circle, draw=black, minimum width=1.25cm] (3) at (0.75,0.25) {\footnotesize{Små}}; 
-\node[circle, draw=black, minimum width=1.5cm] (4) at (-1.5,-1) {\footnotesize{Vindkraftverk}}; 
-\end{tikzpicture}
-
-\end{frame}
 
 
 \begin{frame}
@@ -326,21 +318,7 @@ http://data.eksempel.no/Tynna
 \small{\textbf{SSB Lønn} \url{https://www.ssb.no/statbank/table/12852/}}
 \end{frame}
 
-\begin{frame}
-\Huge{\textbf{ONTOLOGIES}}
-\end{frame}
-
-\begin{frame}{Ontology}
-
-VocabularyA collection of words, concepts, terms (and/or RDF resources).
-TaxonomyA classification of the vocabulary.
-Ontology A set of concepts and categories that shows their properties and
-relations between them. Including accessible semantics and logic.
-
-The software I use: Protégé --- \url{https://protege.stanford.edu/}
-\end{frame}
-
-\begin{frame}{}
+\begin{frame}{Global, unique identifiers \faHeart{}}
 \begin{center}
 \begin{tikzpicture}
 \node[ellipse, draw=black] (1) at (0,-1) {Kraftverk};
@@ -368,6 +346,59 @@ The software I use: Protégé --- \url{https://protege.stanford.edu/}
 \end{center}
 \end{frame}
 
+\begin{frame}
+\Huge{\textbf{ONTOLOGIES}}
+\end{frame}
+
+\begin{frame}{Ontology}
+
+\begin{description}
+\item[Vocabulary] A collection of words, concepts, terms (and/or RDF resources).
+\item[Taxonomy] A classification of the vocabulary.
+\item[Ontology] A description of concepts and categories (classes) and their properties, including the
+relation between them.
+\end{description}
+
+The software I use: Protégé --- \url{https://protege.stanford.edu/}
+\end{frame}
+
+\begin{frame}
+\begin{minipage}{0.55\textwidth}
+
+\scalebox{0.8}{
+\begin{tikzpicture}
+\node[circle, draw=black, minimum width=6cm] (1) at (0,0) {}; 
+\node[circle, draw=black, minimum width=3.5cm] (2) at (0.75,1) {}; 
+\node[] (2) at (0.8,2.4) {\footnotesize{Vannkraftverk}}; 
+\node[] (2) at (-2,1) {{Kraftverk}}; 
+\node[circle, draw=black, minimum width=1.25cm] (3) at (0,1.5) {\footnotesize{Mikro}}; 
+\node[circle, draw=black, minimum width=1.25cm] (3) at (1.5,1.5) {\footnotesize{Mini}}; 
+\node[circle, draw=black, minimum width=1.25cm] (3) at (0.75,0.25) {\footnotesize{Små}}; 
+\node[circle, draw=black, minimum width=1.5cm] (4) at (-1.5,-1) {\footnotesize{Vindkraftverk}}; 
+
+\node[circle, draw=black, minimum width=1.25cm] (5) at (4,1) {\footnotesize{Vassdrag}}; 
+\node[circle, draw=black, minimum width=1.25cm] (5) at (4,-1) {\footnotesize{Kommune}}; 
+\end{tikzpicture}
+}
+
+
+\end{minipage}
+\begin{minipage}{0.35\textwidth}
+\begin{tabular}{ll}
+\textbf{Properties}&\textbf{Datatype}\\
+kommune&Kommune (URI)\\
+vassdrag&Vassdrag (URI)\\
+maks ytelse&double\\
+i drift dato&date\\
+er i drift&boolean\\
+snitt22&integer\\
+snitt23&integer\\
+snitt24&integer\\
+\end{tabular}
+\end{minipage}
+\end{frame}
+
+
 
 \begin{frame}
 \Huge{\textbf{MAPPING}}
@@ -381,6 +412,35 @@ The software I use: Protégé --- \url{https://protege.stanford.edu/}
 \item[\faGlobe{}] \url{https://ottr.xyz/}
 \item[\faGithub{}] \url{https://github.com/veleda/ottr-masterclass}
 \end{itemize}
+\end{frame}
+
+\begin{frame}{tpl}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{img/xls.png}
+
+\vspace{5pt}
+
+$\downarrow$
+
+\vspace{5pt}
+
+\includegraphics[width=0.3\textwidth]{img/tpl.png}
+\end{center}
+\end{frame}
+
+\begin{frame}[fragile]{Generate RDF from input through mapping}
+\begin{code}
+\begin{verbatim}
+m = Mapping(tpl)
+m.expand(tpl_uri, input_data)
+m.write_triples(output, format="turtle")
+\end{verbatim}
+\end{code}
+
+\vspace{10pt}
+
+Framework for Python: \url{https://datatreehouse.github.io/maplib}
+
 \end{frame}
 
 \begin{frame}

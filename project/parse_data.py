@@ -8,6 +8,8 @@ from maplib import Mapping
 # Welcome to the super-messy data-handling-parsing-thing for public data
 # 
 
+nve_tpl = "http://data.eksempel.no/tpl/Vannkraftverk"
+ssb_tpl = "http://data.eksempel.no/tpl/Inntekt"
 
 ns = "http://data.eksempel.no/"
 

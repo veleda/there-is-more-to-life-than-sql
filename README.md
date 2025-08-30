@@ -25,4 +25,6 @@ All standards and tools used in this session are open-source and free to use.
 
 **Open data from public organisations**, [data.norge.no](https://data.norge.no/nb)
 
+**Learn more about SPARQL**, [SPARQL Wiki](https://kvistgaard.github.io/sparql/#/page/sparql%20wiki)
+
 **Play with SPARQL!**, [Wikidata SPARQL endpoint](https://query.wikidata.org/)
